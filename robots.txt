@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-pyj39j.koi888.xyz/sitemap.xml
